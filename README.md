@@ -3,11 +3,16 @@
 </p>
 # 💫 About Me:
 
-Sobre mí<br>¡Hola! Soy Alan Contreras Flores, un desarrollador web Front End React-Js, apasionado por la tecnología y la programación.
+¡Hola! Soy Alan Contreras Flores, un desarrollador web Front End React-Js, apasionado por la tecnología y la programación.
 <p align="center">
   <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif?raw=true" alt="Animación de desarrollador" width="500"/>
 </p>
-Sobre mí<br>¡Hola! Soy Alan Contreras Flores, un desarrollador web Front End React-Js, apasionado por la tecnología y la programación.
+## 🐍 Snake Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AlanContreras784/snk/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/alanbenitocontrerasflores250784) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alancontreras784@gmail.com) 
