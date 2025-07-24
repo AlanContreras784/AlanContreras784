@@ -5,7 +5,7 @@
 
 ¡Hola! Soy Alan Contreras Flores, un desarrollador web Front End React-Js, apasionado por la tecnología y la programación.
 <p align="center">
-  <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif?raw=true" alt="Animación de desarrollador" width="500"/>
+  <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif?raw=true" alt="Animación de desarrollador" width="500" height="300"/>
 </p>
 ## 🐍<h2><strong>Snake Contributions</strong></h2>
 
