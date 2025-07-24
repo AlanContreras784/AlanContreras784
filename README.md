@@ -1,13 +1,13 @@
 <p align="center">
   <img src="https://github.com/Adityakanoi2001/Adityakanoi2001/blob/8b3abf28d4d62728caf9ee9c177f48b058cbb997/assets/header.png?raw=true" alt="Animación de desarrollador"/>
 </p>
-# 💫 About Me:
+##💫 **About Me:**
 
 ¡Hola! Soy Alan Contreras Flores, un desarrollador web Front End React-Js, apasionado por la tecnología y la programación.
 <p align="center">
   <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif?raw=true" alt="Animación de desarrollador" width="500"/>
 </p>
-## 🐍 Snake Contributions
+## 🐍 **Snake Contributions**
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake gif" />
