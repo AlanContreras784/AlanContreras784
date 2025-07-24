@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/Adityakanoi2001/Adityakanoi2001/blob/8b3abf28d4d62728caf9ee9c177f48b058cbb997/assets/header.png?raw=true" alt="Animación de desarrollador"/>
 </p>
-##💫 <strong>About Me:</strong>
+##💫 <h3><strong>About Me:</strong></h3>
 
 ¡Hola! Soy Alan Contreras Flores, un desarrollador web Front End React-Js, apasionado por la tecnología y la programación.
 <p align="center">
